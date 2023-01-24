@@ -1,0 +1,10 @@
+2023-01-23 13:31:00,481 : my_logger : INFO : Game has started
+2023-01-23 13:31:01,469 : my_logger : INFO : Player entered: q
+2023-01-23 13:31:01,469 : my_logger : INFO : Exiting the Game..
+2023-01-23 13:55:50,006 : my_logger : INFO : Game has started
+2023-01-23 13:55:52,785 : my_logger : INFO : Player entered: as
+2023-01-23 13:55:52,785 : my_logger : WARNING : Player entered invalid input
+2023-01-23 13:55:56,646 : my_logger : INFO : Player entered: R
+2023-01-23 13:55:56,646 : my_logger : INFO : Battling..
+2023-01-23 13:56:49,478 : my_logger : INFO : Player entered: q
+2023-01-23 13:56:49,478 : my_logger : INFO : Exiting the Game..
